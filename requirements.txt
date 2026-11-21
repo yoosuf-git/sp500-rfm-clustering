@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==2.4.6
+scipy==1.16.3
+scikit-learn==1.6.1
+matplotlib==3.10.0
+yfinance==0.2.66
+requests
+lxml
+html5lib
+beautifulsoup4

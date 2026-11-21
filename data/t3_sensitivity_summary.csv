@@ -1,0 +1,10 @@
+,value
+"corr(R,F)",-0.348
+"corr(R,log1p M)",0.153
+"corr(F,log1p M)",0.014
+ARI full RFM vs R+F only (Ward),0.291
+ARI Ward vs K-means (RFM),0.833
+ARI Ward vs K-means (risk/return),0.511
+ARI risk/return vs RFM (Ward),0.024
+share of log1p(M) variance explained: full RFM,0.516
+share of log1p(M) variance explained: R+F only,0.004

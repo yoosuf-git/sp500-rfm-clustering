@@ -1,0 +1,4 @@
+KMeans_RR,n,mean_weekly_return_pct,mean_beta,beta_min,beta_max
+1,202,0.259,0.631,0.055,0.987
+2,163,0.095,1.133,0.555,2.505
+3,120,0.593,1.328,0.594,3.779

@@ -1,0 +1,35 @@
+{
+  "constituents_source": "https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&oldid=1382178819",
+  "wikipedia_revision_id": 1382178819,
+  "wikipedia_revision_timestamp": "2026-10-27T02:50:28Z",
+  "constituents_snapshot_target": "2026-11-02",
+  "constituents_retrieved": "2026-11-19",
+  "rerun_note": "Earlier outputs were removed and the full pipeline was re-run; all results come from the retrieval date above.",
+  "prices_downloaded": "2026-11-19",
+  "price_source": "yfinance 0.2.66",
+  "download_args": "auto_adjust=False, start=2021-01-01, end=2025-01-01 (exclusive)",
+  "file_sha256": {
+    "adj_close.csv": "702d41b1657f6e4879d4cb13b3ee2db4d8c9b51eddd4a04be157d9635c428d52",
+    "close.csv": "d57e595a1dc06d223336009fabd7ba4631e88605c1db4def3c2c912f1a872536",
+    "exclusion_log_task1.csv": "80502bbfa381aa3100e1ad22dd523d0b29369a70b17f35ddbd80175bf67ce155",
+    "features_task1.csv": "27c90e685df857e3c0b052ef4c5979d30b313bbbf875b08e2141c630d670759c",
+    "high_volume_event_flags.csv": "05d22b26a7496b8db9b70a9bf13e3a8bf33fba89264c1dde16dad7de33516bea",
+    "sp500_constituents.csv": "713f31f5c16a12f0a1cf5d040a21f270c51e6986cb4bc2900dbd460f3c44b189",
+    "volume.csv": "63be09efd3c223b5f4b53286f24da7b43c2375fc86e2f0d0a8a33fc2a93ea390",
+    "weekly_adj_close.csv": "5d4c3fee577c0271a17691be915ecc441d546e1521b8cd65729d399179b09c08",
+    "weekly_returns.csv": "6d388260bf5ab7a70d4228862d7eaec5288f47e707d55aeb26fc430ea21c4779"
+  },
+  "packages": {
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "yfinance": "0.2.66",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0"
+  },
+  "observation_date": "2024-12-31",
+  "rfm_window": "2024-10-07 to 2024-12-31",
+  "n_weekly_obs": 207,
+  "n_shares_valid": 485,
+  "n_shares_clustered": 485
+}

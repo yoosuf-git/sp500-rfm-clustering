@@ -1,0 +1,5 @@
+solution,chi2,dof,p_value,cramers_V,cells_expected_lt5
+Ward_RR,170.4,20,0.0,0.419,9%
+KMeans_RR,142.3,20,0.0,0.383,6%
+Ward_RFM,67.1,20,0.0,0.263,9%
+KMeans_RFM,66.1,20,0.0,0.261,18%

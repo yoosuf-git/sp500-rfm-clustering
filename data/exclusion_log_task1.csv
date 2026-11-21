@@ -1,0 +1,19 @@
+Ticker,Reason
+APP,unequal history: first price 2021-04-15 (listed after study start)
+COIN,unequal history: first price 2021-04-14 (listed after study start)
+CEG,unequal history: first price 2022-01-19 (listed after study start)
+EXE,unequal history: first price 2021-02-10 (listed after study start)
+FDXF,no price data returned by yfinance
+FERG,27 zero-volume days
+GEHC,unequal history: first price 2022-12-15 (listed after study start)
+GEV,unequal history: first price 2024-03-27 (listed after study start)
+HONA,no price data returned by yfinance
+KVUE,no price data returned by yfinance
+Q,no price data returned by yfinance
+RDDT,unequal history: first price 2024-03-21 (listed after study start)
+HOOD,unequal history: first price 2021-07-29 (listed after study start)
+SNDK,no price data returned by yfinance
+SW,424 zero-volume days
+SOLV,unequal history: first price 2024-03-26 (listed after study start)
+VLTO,unequal history: first price 2023-10-04 (listed after study start)
+VYLR,no price data returned by yfinance
